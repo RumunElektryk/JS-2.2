@@ -76,3 +76,4 @@ login("1234");
 transaction(1000);
 logout();
 console.log("=== KONIEC ===");
+//
