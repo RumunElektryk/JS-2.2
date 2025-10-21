@@ -3,7 +3,7 @@ function sprawdzTypDanych(wartosc, oczekiwanyTyp) {
     return typeof wartosc === oczekiwanyTyp;
 }
 
-
+//To jest komentarz żeby mi załapało zmiane xD
 function walidujTekst(wartosc) {
     if (wartosc === undefined) return 'Pole nie zostało zainicjalizowane';
     if (wartosc === null || wartosc === '') return 'Pole jest puste';
