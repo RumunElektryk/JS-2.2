@@ -1,0 +1,10 @@
+const nazwaSklepu = 'TechStore';
+const maxIloscProduktowWKoszyku = 50;
+const cenaZasilki = 15.99;
+const nazwaUzytkownika = 'jan.kowalski';
+
+
+let procentRabatu = 0; 
+let procentRabatu = 10;
+
+let maxIloscProduktowWKoszyku = 75;
